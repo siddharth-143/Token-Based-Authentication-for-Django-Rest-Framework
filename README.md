@@ -1,5 +1,6 @@
 # Token-Based-Authentication-for-Django-Rest-Framework
 Token Based Authentication in Django Rest Framework using JWT
+
 Registration
 Login
 User Profile
